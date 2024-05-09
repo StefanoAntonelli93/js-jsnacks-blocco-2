@@ -22,7 +22,7 @@ function stampa(array) {
 
 }
 // - creo array (myArray)
-const myArray = ['cane', 'gatto', 'topo', ' pollo'];
+const myArray = ['cane', 'gatto', 'topo', 'pollo'];
 // - stampo in console INVOCANDO funzione il risultato della variabile empty
 console.log(stampa(myArray));
 
